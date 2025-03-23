@@ -27,7 +27,7 @@
 
 ## Most Used Languages:
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkirupanjan&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="naveen-gn" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkirupanjan&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="omkirupanjan" />
 </p>
 
 
